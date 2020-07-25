@@ -8,6 +8,14 @@ import model.Student;
 
 public class StreamApiLessons {
 	
+	/*
+	 * Lessons :
+	 * 
+	 * 	#1 Filter -> Map, in this task, the flow goes by w.r.t each item in the list as it is picked 
+	 * 		and goes through till the end unless it gets filtered out, later which we pick the next item.
+	 * 		Meaning, if we had something like 'findFirst' or 'isExists', we would move out of the streaming 
+	 * 		as soon as we find the first eligible element.   
+	 */
 	public static void main(String[] args) {
 		final List<Student> students = new ArrayList<>();
 		students.add(new Student(1, "Dhvanan", null));
