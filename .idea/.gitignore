@@ -1,5 +1,6 @@
 # Default ignored files
 /shelf/
+/target/
 /workspace.xml
 /vcs.xml
 /target/*
@@ -9,4 +10,4 @@
 /bin
 /.classpath
 /.project
-/target/
+
