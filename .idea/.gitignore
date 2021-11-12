@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/vcs.xml
+/target/*
+/generated/*
+/.idea/*
+/.settings
+/bin
+/.classpath
+/.project
+/target/
